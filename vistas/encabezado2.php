@@ -10,8 +10,8 @@
   	<META NAME="Author" CONTENT="[http://beda.com.mx/]"/>
   	<META name="Description" content="Empresa Social del Estado que presta  servicios de salud de alta calidad y seguridad."/>
 	 <META NAME="Keywords" CONTENT="Clínica BEDA de Mérida Yucatán, Hospital, Hospital Privado, Clínica Particular, Hospital de Yucatán, Clínica en Yucatán, Especialidades Médicas, Salud, Doctores, Clínicas, Doctores Mérida, Médicos en Mérida, Enfermería, Urgencias."/>
-  	<link rel="stylesheet" href="css/bootstrap.css" >
-    <link rel="stylesheet" href="css/font-awesome.min.css">
+  	<link rel="stylesheet" href="../css/bootstrap.css" >
+    <link rel="stylesheet" href="../css/font-awesome.min.css">
 	<link rel="stylesheet" href="../css/estilos.css">
 	<link rel="stylesheet" href="../css/responsivo.css">
 	<script src="../js/general.js"></script>

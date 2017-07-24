@@ -31,8 +31,6 @@
                 </div>
           </div>
       </nav>
-
-
     </div>
 
 <div class="banner">
@@ -119,7 +117,7 @@
         </div>
 
         <div class="mt-5 mb-5 text-center">
-         <a href="vistas/nosotros.php" class="btn btn-outline-danger btn-lg">CONTÁCTANOS</a>
+         <a href="vistas/contacto.php" class="btn btn-outline-danger btn-lg">CONTÁCTANOS</a>
        </div>
 </div>
 
