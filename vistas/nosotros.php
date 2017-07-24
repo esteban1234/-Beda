@@ -11,22 +11,22 @@
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-          <a class="navbar-brand" href="#">
+          <a class="navbar-brand ml-4" href="#">
           
             SERVICIOS HOSPITALARIOS BEDA
           </a>
 
           <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-            <div class="navbar-nav mr-auto ml-auto text-center">
+            <div class="navbar-nav mr-5 ml-auto text-center">
                   <a class="nav-item nav-link" href="../index.php">INDEX</a>
                   <a class="nav-item nav-link active" href="nosotros.php">NOSOTROS</a>
                   <a class="nav-item nav-link" href="servicios.php">SERVICIOS</a>
                   <a class="nav-item nav-link" href="contacto.php">CONTACTO</a>
                 </div>
-                <div class="d-flex flex-row justify-content-center">
+               <!--  <div class="d-flex flex-row justify-content-center">
                   <a href="servicios.php" class="btn btn-outline-warning mr-2">SERVICIOS</a>
                   <a href="contacto.php" class="btn btn-outline-danger">CONTÁCTANOS</a>
-                </div>
+                </div> -->
           </div>
       </nav>
     </div>

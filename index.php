@@ -13,22 +13,22 @@
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-          <a class="navbar-brand" href="#">
+          <a class="navbar-brand ml-4" href="#">
           
             SERVICIOS HOSPITALARIOS BEDA
           </a>
 
           <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-            <div class="navbar-nav mr-auto ml-auto text-center">
+            <div class="navbar-nav mr-5  ml-auto text-center">
                   <a class="nav-item nav-link active" href="index.php">INDEX</a>
                   <a class="nav-item nav-link" href="vistas/nosotros.php">NOSOTROS</a>
                   <a class="nav-item nav-link" href="vistas/servicios.php">SERVICIOS</a>
                   <a class="nav-item nav-link" href="vistas/contacto.php">CONTACTO</a>
                 </div>
-                <div class="d-flex flex-row justify-content-center">
+                <!-- <div class="d-flex flex-row justify-content-center">
                   <a href="vistas/servicios.php" class="btn btn-outline-warning mr-2">SERVICIOS</a>
                   <a href="vistas/contacto.php" class="btn btn-outline-danger">CONTÁCTANOS</a>
-                </div>
+                </div> -->
           </div>
       </nav>
     </div>
@@ -84,9 +84,9 @@
         <div class="row mb-5">
             <div class="col-sm-6 col-md-4 col-lg-4 mt-4">
                 <div class="card">
-                    <img class="card-img-top" src="img/fari.jpg">
+                    <img class="card-img-top" src="img/general.jpg">
                     <div class="card-block">
-                        <h5 class="text-bold">ENFERMEDAD GENERAL</h5>
+                        <h5 class="text-bold">MEDICINA GENERAL</h5>
                     </div>
                 </div>
             </div>
@@ -100,7 +100,7 @@
             </div>
             <div class="col-sm-6 col-md-4 col-lg-4 mt-4">
                 <div class="card">
-                    <img class="card-img-top" src="img/fisio.jpg">
+                    <img class="card-img-top" src="img/fisiot.jpg">
                     <div class="card-block">
                         <h5 class="text-bold">FISIOTERAPIA</h5>
                     </div>
