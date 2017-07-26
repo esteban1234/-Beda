@@ -1,0 +1,396 @@
+@media screen and (max-width: 480px){
+
+  /*********************DISEÑO INDEX******************************/
+  /*header{
+    border: 2px solid red;
+  }*/
+
+  .logo{
+    width: 150px;
+  }
+
+  .panel-menu{
+    padding: 15px 0px;
+  }
+
+  .serv-hospitalario{
+    font-size: 13px;
+    font-weight: bold;
+  }
+
+  .boton-menu{
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .salud{
+    font-size: 25px;
+  }
+
+  .new-styleh1{
+    font-size: 25px;
+    text-align: center;
+    padding: 20px 0px;
+    font-weight: bold;
+  }
+
+  .new-stylep{
+    text-align: justify;
+  }
+
+  .text-bold{
+    text-align: center;
+    font-size: 15px !important;
+  }
+  /*********************END DISEÑO INDEX*************************/
+
+  /*********************DISEÑO NOSOTROS****************************/
+  .img{
+    display: none;
+  }
+
+  .texto h1, .container h1{
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 10px;
+    font-weight: bold;
+  }
+
+  .texto p{
+    text-align: justify;
+    margin: 0px;
+    padding: 18px;
+  }
+
+  .distingue, .fondo2{
+    height: 100%;
+  }
+
+
+  .new-styleh3{
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+  .new-stilo{
+    padding: 3px;
+    font-weight: bold;
+  }
+
+  .new-top {
+    padding: 3px !important;
+  }
+
+  .text-sm-center{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    /*padding: 15px 0px;*/
+  }
+
+  .icono i{
+    font-size: 40px;
+  }
+
+  .new-tamano{
+    text-align: justify !important;
+    margin-bottom: 40px !important;
+  }
+  /*********************END DISEÑO NOSOTROS***********************/
+
+  /*********************DISEÑO SERVICIO****************************/
+
+  .media{
+    /*border: 2px solid red;*/
+    padding: 0px !important;
+    width: 100% !important;
+  }
+
+  .media a{
+    display: none;
+  }
+
+  .media div{
+    /*border: 2px solid green;*/
+    margin-left: 0px !important;
+    float: none !important;
+    width: 100% !important;
+    text-align: justify;
+    padding: 20px 0px;
+  }
+
+  .media div h4{
+    text-align: center;
+    font-weight: bold;
+  }
+  /*********************END DISEÑO SERVICIO***********************/
+
+  /*********************DISEÑO CONTACTO****************************/
+  .pi-item{
+    font-size: 25px !important;
+    text-align: center;
+  }
+
+  .new-style-letra p{
+    text-align: center;
+  }
+
+  /*.new-style-letra p > br{
+
+  }*/
+
+
+  /*********************END DISEÑO CONTACTO***********************/
+
+  /*********************DISEÑO FOOTER****************************/
+  footer p{
+    font-size: 15px;
+    padding: 4px;
+  }
+  /*********************END DISEÑO FOOTER***********************/
+}
+
+@media screen and (max-width: 599px) and (min-width: 481px) {
+  /*********************DISEÑO INDEX****************************/
+    .salud{
+      /*border: 2px solid red;*/
+      font-size: 50px;
+    }
+
+    .new-stylep{
+      text-align: justify;
+    }
+
+    .text-bold{
+      text-align: center;
+    }
+  /*********************END DISEÑO INDEX****************************/
+
+  /*********************DISEÑO NOSOTROS****************************/
+  .img{
+    display: none;
+  }
+
+  .texto h1, .container h1{
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 10px;
+    font-weight: bold;
+  }
+
+  .texto p{
+    text-align: justify;
+    margin: 0px;
+    padding: 18px;
+  }
+
+  .distingue, .fondo2{
+    height: 100%;
+  }
+
+
+  .new-styleh3{
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+  .new-stilo{
+    padding: 3px;
+    font-weight: bold;
+  }
+
+  .new-top {
+    padding: 3px !important;
+  }
+
+  .text-sm-center{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    /*padding: 15px 0px;*/
+  }
+
+  .icono i{
+    font-size: 50px;
+  }
+
+  .new-tamano{
+    text-align: justify !important;
+    margin-bottom: 40px !important;
+  }
+  /*********************END DISEÑO NOSOTROS***********************/
+
+
+
+  /*********************DISEÑO SERVICIO****************************/
+
+  .media-heading{
+    text-align: center;
+    padding: 10px 0px;
+    font-weight: bold;
+  }
+
+  .media a{
+    margin-top: 60px;
+  }
+
+  .media div{
+    text-align: justify;
+  }
+
+  /*********************END DISEÑO SERVICIO***********************/
+
+
+  /*********************DISEÑO CONTACTO****************************/
+  .pi-item{
+    text-align: center;
+    font-size: 25px !important;
+    font-weight: bold;
+    padding-top: 10px;
+  }
+
+  .new-style-letra p{
+    text-align: center;
+  }
+  /*********************END DISEÑO CONTACTO***********************/
+
+  /*********************DISEÑO FOOTER****************************/
+  footer p{
+    font-size: 15px;
+    padding: 4px;
+  }
+  /*********************END DISEÑO FOOTER***********************/
+}
+
+
+@media screen and (max-width: 799px) and (min-width: 600px) {
+  /*********************DISEÑO INDEX****************************/
+    .salud{
+      /*border: 2px solid red;*/
+      font-size: 50px;
+    }
+
+    .new-stylep{
+      text-align: justify;
+    }
+
+    .text-bold{
+      text-align: center;
+    }
+  /*********************END DISEÑO INDEX****************************/
+
+  /*********************DISEÑO NOSOTROS****************************/
+  .img{
+    /*display: none;*/
+    width: 60%;
+    margin-top: 115px;
+  }
+
+  .img img{width: 100%}
+
+  .texto h1, .container h1{
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 10px;
+    font-weight: bold;
+  }
+
+  .texto p{
+    text-align: justify;
+    margin: 0px;
+    padding: 18px;
+  }
+
+  .distingue, .fondo2{
+    height: 100%;
+  }
+
+
+  .new-styleh3{
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+  .new-stilo{
+    padding: 3px;
+    font-weight: bold;
+  }
+
+  .new-top {
+    padding: 3px !important;
+  }
+
+  .text-sm-center{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    /*padding: 15px 0px;*/
+  }
+
+  .icono i{
+    font-size: 50px;
+  }
+
+  .new-tamano{
+    text-align: justify !important;
+    margin-bottom: 40px !important;
+  }
+  /*********************END DISEÑO NOSOTROS***********************/
+
+
+
+  /*********************DISEÑO SERVICIO****************************/
+
+  .media-heading{
+    text-align: center;
+    padding: 10px 0px;
+    font-weight: bold;
+  }
+
+  .media a{
+    margin-top: 60px;
+  }
+
+  .media div{
+    text-align: justify;
+  }
+
+  /*********************END DISEÑO SERVICIO***********************/
+
+
+  /*********************DISEÑO CONTACTO****************************/
+  .pi-item{
+    text-align: center;
+    font-size: 25px !important;
+    font-weight: bold;
+    padding-top: 10px;
+  }
+
+  .new-style-letra p{
+    text-align: center;
+  }
+  /*********************END DISEÑO CONTACTO***********************/
+
+  /*********************DISEÑO FOOTER****************************/
+  footer p{
+    font-size: 15px;
+    padding: 4px;
+  }
+  /*********************END DISEÑO FOOTER***********************/
+}
+
+@media screen and (max-width: 1023px) and (min-width: 800px) {
+  .fondo2, .distingue{
+    height: 100%;
+  }
+
+  .media div{
+    text-align: justify;
+  }
+}
+
+@media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
+}
+@media screen and (max-width: 1366px) and (min-width: 1024px) { }
+
+@media screen and (min-width: 1367px) { }

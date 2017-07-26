@@ -3,20 +3,17 @@
   <?php include 'vistas/encabezado.php' ?>
 
   <body>
-    
+
     <div class="header">
       <figure class="logo">
         <img src="img/beda.png"  class="img-fluid" alt="">
       </figure>
-      
-      <nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse">
-      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-          <a class="navbar-brand ml-4" href="#">
-          
-            SERVICIOS HOSPITALARIOS BEDA
-          </a>
+
+      <nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse panel-menu">
+        <button class="navbar-toggler navbar-toggler-right boton-menu" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand ml-4 serv-hospitalario" href="#">SERVICIOS HOSPITALARIOS BEDA</a>
 
           <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
             <div class="navbar-nav mr-5  ml-auto text-center">
@@ -36,19 +33,19 @@
 <div class="banner">
   <div class="fondo d-flex justify-content-center align-items-center flex-wrap">
    <div>
-      <h1 class="display-1 text-white">CUIDAMOS TU SALUD</h1>
+      <h1 class="display-1 text-white salud">CUIDAMOS TU SALUD</h1>
        <div class="mt-5 text-center">
          <a href="vistas/nosotros.php" class="btn btn-outline-danger btn-lg">CONÓCENOS</a>
        </div>
    </div>
   </div>
 </div>
-    
+
    <div class="container">
-   <h1 style="border-bottom: 1px #706F6F solid;" class="mt-5 pb-3 text-muted">Cuidado del paciente</h1>
-   <p class="mt-4">Para BEDA es fundamental contar con la participación de los pacientes y su familia. Recuerde que en caso de presentar alguno signo de alerta debe consultar al médico.</p>
+   <h1 class="new-styleh1"style="border-bottom: 1px #706F6F solid;" class="mt-5 pb-3 text-muted">Cuidado del paciente</h1>
+   <p class="mt-4 new-stylep">Para BEDA es fundamental contar con la participación de los pacientes y su familia. Recuerde que en caso de presentar alguno signo de alerta debe consultar al médico.</p>
         <div class="row">
-            <div class="col-sm-6 col-md-4 mt-4 col-lg-4">
+            <div class="col-xs-12 col-sm-12 col-md-4 mt-4 col-lg-4">
                 <div class="card">
                     <img class="card-img-top" src="img/ancianos2.jpg">
                     <div class="card-block">
@@ -56,7 +53,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-4 mt-4 col-lg-4">
+            <div class="col-xs-12 col-sm-12 col-md-4 mt-4 col-lg-4">
                 <div class="card">
                     <img class="card-img-top" src="img/ninos.jpg">
                     <div class="card-block">
@@ -64,7 +61,7 @@
                     </div>
                 </div>
             </div>
-           <div class="col-sm-6 col-md-4 mt-4 col-lg-4">
+           <div class="col-xs-12 col-sm-12 col-md-4 mt-4 col-lg-4">
                 <div class="card">
                     <img class="card-img-top" src="img/embarazadas.jpg">
                     <div class="card-block">
@@ -82,7 +79,7 @@
             </div> -->
         </div>
         <div class="row mb-5">
-            <div class="col-sm-6 col-md-4 col-lg-4 mt-4">
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-4">
                 <div class="card">
                     <img class="card-img-top" src="img/general.jpg">
                     <div class="card-block">
@@ -90,7 +87,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-4 col-lg-4 mt-4">
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-4">
                 <div class="card">
                     <img class="card-img-top" src="img/especial.jpg">
                     <div class="card-block">
@@ -98,7 +95,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-4 col-lg-4 mt-4">
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-4">
                 <div class="card">
                     <img class="card-img-top" src="img/fisiot.jpg">
                     <div class="card-block">

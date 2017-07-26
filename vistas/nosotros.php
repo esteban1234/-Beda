@@ -6,26 +6,23 @@
       <figure class="logo">
         <img src="../img/beda.png"  class="img-fluid" alt="">
       </figure>
-      
-      <nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse">
-      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-          <a class="navbar-brand ml-4" href="#">
-          
-            SERVICIOS HOSPITALARIOS BEDA
-          </a>
+
+      <nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse panel-menu">
+        <button class="navbar-toggler navbar-toggler-right boton-menu" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand ml-4 serv-hospitalario" href="#">SERVICIOS HOSPITALARIOS BEDA</a>
 
           <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-            <div class="navbar-nav mr-5 ml-auto text-center">
+            <div class="navbar-nav mr-5  ml-auto text-center">
                   <a class="nav-item nav-link" href="../index.php">INDEX</a>
                   <a class="nav-item nav-link active" href="nosotros.php">NOSOTROS</a>
                   <a class="nav-item nav-link" href="servicios.php">SERVICIOS</a>
                   <a class="nav-item nav-link" href="contacto.php">CONTACTO</a>
                 </div>
-               <!--  <div class="d-flex flex-row justify-content-center">
-                  <a href="servicios.php" class="btn btn-outline-warning mr-2">SERVICIOS</a>
-                  <a href="contacto.php" class="btn btn-outline-danger">CONTÁCTANOS</a>
+                <!-- <div class="d-flex flex-row justify-content-center">
+                  <a href="vistas/servicios.php" class="btn btn-outline-warning mr-2">SERVICIOS</a>
+                  <a href="vistas/contacto.php" class="btn btn-outline-danger">CONTÁCTANOS</a>
                 </div> -->
           </div>
       </nav>
@@ -45,10 +42,10 @@
 
     <article class="distingue">
     	<div class="fondo2">
-    		<h3 style="color: #29235C; margin-top: 7%;" class="text-center">Lo que nos distigue</h3>
-    		<p style="color:   #4d5656 ;" class="text-center">Contamos con especialistas en diferentes áreas</p>
+    		<h3 style="color: #29235C; margin-top: 7%;" class="text-center new-styleh3">Lo que nos distigue</h3>
+    		<p style="color:   #4d5656 ;" class="text-center new-stilo">Contamos con especialistas en diferentes áreas</p>
 
-    		<div class="py-5 section">
+    		<div class="py-5 section new-top">
     <div class="container">
       <div class="row">
         <div class="col-md-4">
@@ -71,7 +68,7 @@
          <a href="contacto.php" class="btn btn-outline-danger btn-lg">CONTÁCTANOS</a>
        </div>
     	</div>
-    	
+
     </article>
 
     <div class="py-5 section">
@@ -82,14 +79,14 @@
           	<i class="fa fa-line-chart fa-5x" aria-hidden="true"></i>
           </div>
           <h2 style="color: #29235C;" class="text-sm-center mt-4">Misión</h2>
-          <p class="text-center my-1">Brindar a nuestros pacientes servicios de salud de calidad y excelencia, garantizando la seguridad y el trato amable, estando siempre a la vanguardia en tecnología así perseguir la excelencia de nuestros servicios.</p>
+          <p class="text-center my-1 new-tamano">Brindar a nuestros pacientes servicios de salud de calidad y excelencia, garantizando la seguridad y el trato amable, estando siempre a la vanguardia en tecnología así perseguir la excelencia de nuestros servicios.</p>
         </div>
         <div class="col-md-4 mvv">
           <div style="text-align: center;" class="icono">
           	<i class="fa fa-eye fa-5x" aria-hidden="true"></i>
           </div>
           <h2 style="color: #29235C;" class="text-sm-center mt-4">Visión</h2>
-          <p class="text-center my-1">Ser la clínica con más amplia cobertura en servicio y tecnología, contando con el más eficiente y competente personal médico, brindando una atención con calidad y responsabilidad.</p>
+          <p class="text-center my-1 new-tamano">Ser la clínica con más amplia cobertura en servicio y tecnología, contando con el más eficiente y competente personal médico, brindando una atención con calidad y responsabilidad.</p>
         </div>
         <div class="col-md-4 mvv">
           <div style="text-align: center;" class="icono">
@@ -110,7 +107,7 @@
 
 
 
-	
+
 <?php include 'pie.php' ?>
 <!-- <script src="../js/jquery.js"></script>
 <script src="../js/bootstrap.js"></script> -->

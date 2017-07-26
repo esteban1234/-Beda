@@ -27,7 +27,7 @@
     overflow: hidden;
 }
 .bg-inversee{
-	background-color:  #e5e8e8; 
+	background-color:  #e5e8e8;
 }
 .fondo{
 	background-color: rgba( 93, 109, 126, .5 );
@@ -209,7 +209,7 @@ footer p{
 }
 
 /*----------servicios---------*/
-.media 
+.media
 {
   padding-top: 40px;
 }
@@ -218,7 +218,7 @@ footer p{
   text-decoration: none;
   outline: none;
 }
-.media .media-left .icon 
+.media .media-left .icon
 {
   display: block;
   width: 80px;
@@ -231,4 +231,8 @@ footer p{
 .media .media-left .icon::before
 {
   font-size: 44px;
+}
+
+.media-body{
+  margin-left: 15px;
 }
